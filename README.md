@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Felipe Lima</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Web Software Engineer</h3>
 
 ![image](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmrfelipelima1212%2Fhit-counter)
 
