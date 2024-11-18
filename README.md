@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mrfelipelima" target="blank"><img src="https://img.shields.io/twitter/follow/mrfelipelima?logo=twitter&style=for-the-badge" alt="mrfelipelima" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.felipelima.net/blog/](https://www.felipelima.net/blog/)
+- 📝 I regularly write articles on [https://www.felipelima.site/blog/](https://www.felipelima.site/blog/)
 
 - 📫 How to reach me **mrfelipelima@gmail.com**
 
